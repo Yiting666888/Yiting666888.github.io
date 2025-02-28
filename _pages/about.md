@@ -19,6 +19,7 @@ https://ieeexplore.ieee.org/abstract/document/10137393
 [2] Wei, Y., et al.: Fusion of various optimisation based feature smoothing methods for wearable and non-invasive blood glucose estimation. IET Syst. Biol. 17(3), 107–120 (2023). https://doi.org/10.1049/syb2.12063.
 
 https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/syb2.12063; 
+https://drive.google.com/file/d/1RTHH6_9kQ7QcFeN0Rqvdet5Udeg0Kg4L/view?usp=sharing
 
 [3] Wei Y, Guo W, Ling B W K, et al. Both forward approach and backward approach for performing both regressions and classifications using the histogram information for predicting the baseline screening scores for performing the prognostic of the diabetes[J]. Signal, Image and Video Processing, 2023: 1-7.
 
