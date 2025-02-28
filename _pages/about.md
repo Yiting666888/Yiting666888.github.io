@@ -39,6 +39,7 @@ https://ieeexplore.ieee.org/abstract/document/10685362
 [1] Wei, Y., et al. (2022, November). Multi-models with averaging in feature domain for non-invasive blood glucose estimation. In 2022 IEEE International Symposium on Product Compliance Engineering-Asia (ISPCE-ASIA) (pp. 1-6). IEEE.
 
 https://ieeexplore.ieee.org/abstract/document/9971019; 
+https://drive.google.com/file/d/1vVmXlMNvL14YvZTqUU_YcixFpKJAhcjq/view?usp=sharing
 
 [2] Wei Y, Ling B W K, Liu Q, et al. Systolic peak detection of photoplethysmograms via regularity approach[C]//2023 IEEE International Conference on Industrial Technology (ICIT). IEEE, 2023: 1-5.
 
